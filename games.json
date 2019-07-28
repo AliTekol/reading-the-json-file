@@ -1,0 +1,58 @@
+{ 
+    "games":  [
+                 { 
+                     "name":             "Super Mario Bros",
+                     "release_year":         "1985",  
+                     "producer":         "Nintendo Creative Department",
+                     "platforms":     [ "Nintendo", "Famicom/NES", "Game Boy Advance" ]
+                 },
+                 {
+                     "name":           "Wolfenstein",
+                     "release_year":          "1981",  
+                     "producer":          "Muse Software",
+                     "platforms":     [ "Amiga 1200", "Apple II", "Commodore 64", "Game Boy Advance", "MS-DOS", "Windows" ]
+                 },
+                 { 
+                    "name":             "Diablo 1",
+                    "release_year":         "1996",  
+                    "producer":         "Blizzard Entertainment",
+	                 "platforms":     [ "Play Station", "Windows" ]
+                 },
+                 { 
+                    "name":          "Stronghold",
+                    "release_year":          "2001",  
+                    "producer":          "Firefly Studios",
+	                 "platforms":     [ "Windows", "Mac OS" ]
+                 },
+                 { 
+                    "name":           "Doom",
+                    "release_year":         "1993",  
+                    "producer":     "id Software",
+	                 "platforms":     [ "Windows", "MS-DOS" ]
+                 },
+                 {
+	                 "name":           "Prehistorik 2",
+                    "release_year":          "1992",  
+                    "producer":          "Titus",
+	                 "platforms":     [ "Amstrad CPC", "MS-DOS" ]
+                 },
+                 {
+	                 "name":           "Commander Keen",
+                    "release_year":          "1990",  
+                    "producer":          "id Software",
+	                 "platforms":     [ "MS-DOS", "Game Boy Color", "Windows", "Android" ]
+                 },
+                 {
+                  "name":           "Krakout",
+                  "release_year":          "1987",  
+                  "producer":          "Gremlin Graphics",
+                  "platforms":     [ "Amstrad CPC", "Commodore 64", "ZX Spectrum", "BBC Micro" ]
+                 },
+                 {
+                  "name":           "Resident Evil",
+                  "release_year":          "1996",  
+                  "producer":          "Capcom",
+                  "platforms":     [ "Play Station", "Nintendo DS", "Windows", "Sega Saturn" ]
+                 }
+              ] 
+}
